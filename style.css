@@ -11,7 +11,6 @@ body{
 }
 
 header{
-    position: ;
     width: 100%;
     height: 100px;
     position: relative;
@@ -51,7 +50,7 @@ iframe{
 main{
     position: relative;
     margin: auto;
-    width: 600px;
+    width: 100%;
     background-color: white;
     padding: 20px;
     border-radius: 10px;
@@ -71,7 +70,7 @@ main{
 footer{
     position: relative;
     margin: auto auto 30px auto;
-    width: 600px;
+    width: 30%;
     background-color: white;
     padding: 20px;
     border-radius: 10px;
