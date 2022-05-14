@@ -1,9 +1,13 @@
 body{
-  background-color: rgba(128, 128, 128, 0.535);
+    background: url(image\ 28.png);
+    background-position: center center  ;
+    background-size: 100%;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
 }
 
 .container{
-    background-color: rgba(255, 255, 255, 0.65);
+    background-color: rgb(255, 255, 255);
     margin: 0px 10px 10px 10px;
     border-radius: 10px;
     padding: 10px;
@@ -20,10 +24,10 @@ body{
     height: 300px;
 
 
-    background: url(bg.png);
+    background: url(figurinha.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: 100%;
     background-attachment: fixed;
 }
 
@@ -37,12 +41,8 @@ body{
 #inicio{
     display: flex;
     height: 200px;
-    background: url(image\ 28.png);
-    background-position: top  ;
-    background-size: cover;
-    background-repeat:no-repeat;
-    background-attachment: fixed;
-    background-size: 100%;
+   
+   
 
 } 
 
