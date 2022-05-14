@@ -35,11 +35,13 @@ body{
 }   
 
 #inicio{
+    display: flex;
     height: 200px;
-    background: url(figurinha.jpg);
+    background: url(image\ 28.png);
     background-position: top  ;
     background-size: cover;
     background-repeat:no-repeat;
+    background-attachment: fixed;
     background-size: 100%;
 
 } 
