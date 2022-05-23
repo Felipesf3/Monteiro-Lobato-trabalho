@@ -3,7 +3,6 @@ body{
     background-position: center center  ;
     background-size: 100%;
     background-repeat:no-repeat;
-    background-attachment: fixed;
 }
 
 .container{
@@ -28,6 +27,7 @@ body{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100%;
+    background-size: cover;
     background-attachment: fixed;
 }
 
@@ -41,6 +41,8 @@ body{
 #inicio{
     display: flex;
     height: 200px;
+    background-image: url(image\ 28.png);
+    background-size: cover;
    
    
 
