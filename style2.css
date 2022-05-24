@@ -19,8 +19,9 @@ body{
 
 .imagens{
     position:static;
-    width: 100%;
-    height: 300px;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
 
 
     background: url(figurinha.jpg);
@@ -28,7 +29,7 @@ body{
     background-position: center center;
     background-size: 100%;
     background-size: cover;
-    background-attachment: fixed;
+    
 }
 
 .escrito{
@@ -51,8 +52,16 @@ body{
    
 
 } 
+p{
+    font-family: sans-serif;
+    line-height: 25px;
+}
 
-
+#anonimo{
+ display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 @media (max-width:899px){
 
