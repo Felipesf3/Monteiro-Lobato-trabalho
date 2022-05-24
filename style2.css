@@ -1,8 +1,5 @@
 body{
-    background: url(image\ 28.png);
-    background-position: center center  ;
-    background-size: 100%;
-    background-repeat:no-repeat;
+    background-color: maroon;
 }
 
 .container{
