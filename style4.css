@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+#lista{
+    text-align: center;
+    margin: auto;
+    list-style-type: none;
+}
+
+main{
+    margin-top: 0px;
+    padding: 20px;
+    border-top: 5px solid;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#inicio{
+    display: flex;
+    height: 200px;
+    background-image: url(fundo.png);
+    background-size: cover;
+
+} 
