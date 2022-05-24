@@ -22,13 +22,6 @@ body{
     width: fit-content;
     height: fit-content;
     margin: auto;
-
-
-    background: url(figurinha.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 100%;
-    background-size: cover;
     
 }
 
