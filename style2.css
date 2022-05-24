@@ -28,7 +28,7 @@ body{
 .escrito{
     padding: 10px;
     position: relative;
-    max-width: 90%;
+    max-width:100%;
 }   
 .titulos{
     text-align: center;
